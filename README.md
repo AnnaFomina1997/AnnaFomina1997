@@ -10,24 +10,12 @@
 4) Опубликовала 3 статьи в сборниках.
 
 ## Интересные проекты:
-1) https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials - Приложение, прогнозирующее конечные свойства композиционных материалов. О
-
-1) [Prediction of composite materials](https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials) - Приложение, прогнозирующее конечные свойства композиционных материалов.
-
-
-2) Фомина А. А. Классификация драгоценных камней при помощи компьютерного зрения //
-Искусственный интеллект в промышленных, коммерческих, медицинских и финансовых
-приложениях : СБОРНИК СТАТЕЙ НАУЧНО-ТЕХНИЧЕСКОГО СЕМИНАРА СТУДЕНТОВ
-КАФЕДРЫ «ИНЖЕНЕРНОЙ КИБЕРНЕТИКИ», Москва, 30 декабря 2023 года. – Москва: Национальный
-исследовательский технологический университет "МИСИС 2023. – С. 9-15. – EDN THRHTS.
-https://www.researchgate.net/publication/376809385_Klassifikacia_dragocennyh_kamnej_pri_p
-omosi_komputernogo_zrenia
-
-3) Фомина А. А. Алгоритмическое и программное прогнозирование конечных свойств
-композиционных материалов // Научный аспект №5-2023 - Информ. технологии. Статье
-присвоен номер 05/23-10-044 в базе издательства.
-https://na-journal.ru/5-2023-informacionnye-tekhnologii/5135-algoritmicheskoe-i%EF%BF%BEp
-rogrammnoe-prognozirovanie-konechnyh-svoistv-kompozicionnyh-materialov
+1) [Text-to-Image Generator](https://github.com/AnnaFomina1997/Text-to-Image-Generator) - Приложение на FastAPI, генерирующее изображения по текстовому описанию с помощью модели Stability AI SDXL-Turbo. Поддерживает развертывание через Docker (Docker Compose), включает бэкенд и ML-сервис. Настроен CI/CD-пайплайн на GitHub Actions с автоматическими тестами и проверкой кода.
+2) [Prediction of composite materials](https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials) - Приложение, прогнозирующее конечные свойства композиционных материалов.
+3) тлеграмм бот для прогноза погоды
+4) лего
+5) [CNN_text_tonality_classification_model](https://github.com/AnnaFomina1997/CNN_text_tonality_classification_model) - CNN модель для классификации тональности текста.
+6) [garpix_scoring](https://github.com/AnnaFomina1997/garpix_scoring) - Телеграм бот и веб версия, позволяющий получать информацию об успеваемости студента: исторической и будущей. На платформе можно обратиться в реестр студентов, а так же получить оценку того, как студент сдаст будущую сесиию. Участвовала в разработке приложения как product owner, разработка происходила по методологии Scrum.
 
 ## Мои публикации:
 1) Фомина А. А. Поиск ключевых точек на изображении лица
