@@ -11,7 +11,6 @@
 
 ## Интересные проекты:
 1) [Text-to-Image Generator](https://github.com/AnnaFomina1997/Text-to-Image-Generator) - Приложение на FastAPI, генерирующее изображения по текстовому описанию с помощью модели Stability AI SDXL-Turbo. Поддерживает развертывание через Docker (Docker Compose), включает бэкенд и ML-сервис. Настроен CI/CD-пайплайн на GitHub Actions с автоматическими тестами и проверкой кода.
-2) [Prediction of composite materials](https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials) - Приложение, прогнозирующее конечные свойства композиционных материалов.
 3) [WeatherBot](https://github.com/AnnaFomina1997/WeatherBot) - Telegram-бот, предоставляющий точный почасовой прогноз погоды для деревни Перегоричи в Калужской области.
 4) лего
 5) диплом. не забыть про парсинг
