@@ -7,7 +7,7 @@
 по направлению «Data science»
 3) Диплом призера конкурса проектных работ имени академика А. А. Бочвара. По
 направлению: 09.04.03 Прикладная информатика.
-4) Опубликовала 3 статьи в сборниках.
+4) Опубликовала 2 статьи в сборниках.
 
 ## Интересные проекты:
 1) [Text-to-Image Generator](https://github.com/AnnaFomina1997/Text-to-Image-Generator) - Приложение на FastAPI, генерирующее изображения по текстовому описанию с помощью модели Stability AI SDXL-Turbo. Поддерживает развертывание через Docker (Docker Compose), включает бэкенд и ML-сервис. Настроен CI/CD-пайплайн на GitHub Actions с автоматическими тестами и проверкой кода.
@@ -29,9 +29,3 @@ https://www.researchgate.net/publication/380720011_Poisk_klucevyh_tocek_na_izobr
 исследовательский технологический университет "МИСИС 2023. – С. 9-15. – EDN THRHTS.
 https://www.researchgate.net/publication/376809385_Klassifikacia_dragocennyh_kamnej_pri_p
 omosi_komputernogo_zrenia
-
-3) Фомина А. А. Алгоритмическое и программное прогнозирование конечных свойств
-композиционных материалов // Научный аспект №5-2023 - Информ. технологии. Статье
-присвоен номер 05/23-10-044 в базе издательства.
-https://na-journal.ru/5-2023-informacionnye-tekhnologii/5135-algoritmicheskoe-i%EF%BF%BEp
-rogrammnoe-prognozirovanie-konechnyh-svoistv-kompozicionnyh-materialov
