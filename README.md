@@ -10,8 +10,10 @@
 4) Опубликовала 3 статьи в сборниках.
 
 ## Интересные проекты:
-1) Фомина А. А. Поиск ключевых точек на изображении лица
-https://www.researchgate.net/publication/380720011_Poisk_klucevyh_tocek_na_izobrazenii_lica
+1) https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials - Приложение, прогнозирующее конечные свойства композиционных материалов. О
+
+1) [Prediction of composite materials](https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials) - Приложение, прогнозирующее конечные свойства композиционных материалов.
+
 
 2) Фомина А. А. Классификация драгоценных камней при помощи компьютерного зрения //
 Искусственный интеллект в промышленных, коммерческих, медицинских и финансовых
