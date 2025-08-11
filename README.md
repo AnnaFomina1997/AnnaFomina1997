@@ -14,9 +14,9 @@
 3) [WeatherBot](https://github.com/AnnaFomina1997/WeatherBot) - Telegram-бот, предоставляющий точный почасовой прогноз погоды для деревни Перегоричи в Калужской области.
 4) лего
 5) диплом. не забыть про парсинг
-6) все таки написать про бауманку но переписать модели
-7) [CNN_text_tonality_classification_model](https://github.com/AnnaFomina1997/CNN_text_tonality_classification_model) - CNN модель для классификации тональности текста.
-8) [garpix_scoring](https://github.com/AnnaFomina1997/garpix_scoring) - Телеграм бот и веб версия, позволяющий получать информацию об успеваемости студента: исторической и будущей. На платформе можно обратиться в реестр студентов, а так же получить оценку того, как студент сдаст будущую сесиию. Участвовала в разработке приложения как product owner, разработка происходила по методологии Scrum.
+6) [FORECASTING OF FINAL PROPERTIES OF COMPOSITE MATERIALS](https://github.com/AnnaFomina1997/Prediction-of-the-final-properties-of-composite-materials) - Проект для прогнозирования конечных свойств композитных материалов (соотношение матрица-наполнитель, модуль упругости, прочность при растяжении и др.) с использованием CatBoost и нейросетей. Также в проекте реализовано веб-приложение на Streamlit, доступное по ссылке: https://annafomina1997-project-web-app-v-01-zhv1fw.streamlit.app/, которое позволяет легко получить предсказания параметра композита через удобный интерфейс.
+8) [CNN_text_tonality_classification_model](https://github.com/AnnaFomina1997/CNN_text_tonality_classification_model) - CNN модель для классификации тональности текста.
+9) [garpix_scoring](https://github.com/AnnaFomina1997/garpix_scoring) - Телеграм бот и веб версия, позволяющий получать информацию об успеваемости студента: исторической и будущей. На платформе можно обратиться в реестр студентов, а так же получить оценку того, как студент сдаст будущую сесиию. Участвовала в разработке приложения как product owner, разработка происходила по методологии Scrum.
 
 ## Мои публикации:
 1) Фомина А. А. Поиск ключевых точек на изображении лица
